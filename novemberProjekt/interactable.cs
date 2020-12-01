@@ -2,7 +2,7 @@ using System;
 
 namespace novemberProjekt
 {
-    public class starWarsController
+    public class interactable : gameObject
     {
         
     }

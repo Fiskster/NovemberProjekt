@@ -13,7 +13,7 @@ namespace novemberProjekt
             float x = 100;
             float y = 400;
 
-            var bruh = Raylib.LoadImage(@"C:\Users\axel.lilja2\Documents\PROG02\NovemberProjekt\novemberProjekt\bin\Debug\netcoreapp3.1\MainChar.png");
+            var bruh = Raylib.LoadImage(@"C:\Users\axel.lilja2\Documents\PROG02\NovemberProjekt\novemberProjekt\bin\Debug\netcoreapp3.1\Character.png");
             Texture2D texture = Raylib.LoadTextureFromImage(bruh);
 
 
